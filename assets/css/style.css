@@ -1,0 +1,29 @@
+ul.list-ko li{
+    padding: 10px 20px;
+}
+ul.list-ko li#special{
+    color: green;
+}
+#navigation{
+    position: fixed; top:0; padding:20px 50px 20px 50px; background-color:yellow; display: flex; width: 100%;
+}
+.mar100{
+    margin:100px 0;
+}
+.hero-header{
+    font-size: 60px;
+}
+.lead {
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.flex-wraper{
+    padding: 30px;
+}
+.my-btn{
+    margin-top: 20px ;
+    font-size: 20px;
+    padding: 8px 20px;
+    text-transform: uppercase;
+}
